@@ -97,5 +97,3 @@ If you are copying this code in order to get started with your documentation, yo
 
 To get started with Read the Docs, you may also refer to the [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/).
 It provides a full walk-through of building an example project similar to the one in this repository.
-
-[![Gitpod ready-to-code(JS)](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/Josephpaik/sphinx-220725)
